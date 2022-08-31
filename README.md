@@ -9,7 +9,7 @@ Other than the boilerplate code cake generates via baking, most of the code that
 - templates>Carts>index.php 
 
 ## Database schema
-![Database Schema](/assets_git/db_schema.png)
+![Database Schema](/git_assets/db_schema.png)
 
 The SQL file for recreating the tables for this project can be found in the git_assets folder.
 
