@@ -1,3 +1,20 @@
+# [ARCHIEVED] CakePHP shopping cart with browser sessions
+
+## Code structure
+
+Other than the boilerplate code cake generates via baking, most of the code that I've written to implement sessions are here:
+- ProductsController.php 
+- CartsController.php
+- templates>products>view.php
+- templates>Carts>index.php 
+
+## Database schema
+![Database Schema](/assets_git/db_schema.png)
+
+The SQL file for recreating the tables for this project can be found in the git_assets folder.
+
+
+
 # CakePHP Application Skeleton
 
 [![Build Status](https://img.shields.io/github/workflow/status/cakephp/app/CakePHP%20App%20CI/master?style=flat-square)](https://github.com/cakephp/app/actions)
