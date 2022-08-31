@@ -13,6 +13,8 @@ Other than the boilerplate code cake generates via baking, most of the code that
 
 The SQL file for recreating the tables for this project can be found in the git_assets folder.
 
+Note: As of now, there's no code that actually saves the cart data to the database. 
+
 
 
 # CakePHP Application Skeleton
